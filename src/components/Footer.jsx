@@ -80,7 +80,7 @@ export default function Footer() {
           </div>
           <div className="info">
             <span>Telephone : +234-802-000-0000</span><br />
-            <span>Email : hello@traceafrica.com</span>
+            <span>Email : hello@freelansa.com</span>
           </div>
           <div className="social-icons flex gap-2">
             {socialMedia.map((icon, index) => {
